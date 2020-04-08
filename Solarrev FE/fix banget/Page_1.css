@@ -1,0 +1,303 @@
+.mediaViewInfo {
+	--web-view-name: HOME;
+	--web-view-id: HOME;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: HOME;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#HOME {
+	position: absolute;
+	width: 1900px;
+	height: 1032px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: HOME;
+	--web-view-id: HOME;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#Group_334 {
+	position: absolute;
+	width: 1899px;
+	height: 435px;
+	left: 0px;
+	top: 121px;
+	overflow: visible;
+}
+#Rectangle_1 {
+	filter: blur(0px);
+	position: absolute;
+	width: 1899px;
+	height: 435px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#ABOUT_US {
+	position: absolute;
+	left: 1583px;
+	top: 48px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(199,213,0,1);
+}
+#FAQ {
+	position: absolute;
+	left: 1764px;
+	top: 48px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(199,213,0,1);
+}
+#hint_text_3_light {
+	position: absolute;
+	width: 355px;
+	height: 25px;
+	left: 827px;
+	top: 474px;
+	overflow: visible;
+}
+.text_path {
+	position: absolute;
+	overflow: visible;
+	width: 355px;
+	height: 2px;
+	left: 0px;
+	top: 18px;
+}
+#hint_text {
+	opacity: 0.85;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 162px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 19px;
+	color: rgba(255,255,255,1);
+}
+.text_cursor_active {
+	position: absolute;
+	overflow: visible;
+	width: 1px;
+	height: 20px;
+	left: 0px;
+	top: 3px;
+}
+#Normal_Raised_Light {
+	opacity: 0.87;
+	position: absolute;
+	width: 55px;
+	height: 34px;
+	left: 1195px;
+	top: 467px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Page 2.html;
+	cursor: pointer;
+}
+.Rectangle_182 {
+	filter: drop-shadow(0px 2px 2px rgba(0, 0, 0, 0.239));
+	position: absolute;
+	overflow: visible;
+	width: 61px;
+	height: 40px;
+	left: 0px;
+	top: 0px;
+}
+#Normal {
+	position: absolute;
+	left: 4.889px;
+	top: -2.187px;
+	overflow: visible;
+	width: 45px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(255,255,255,1);
+}
+#Why_Solar_Power_ {
+	position: absolute;
+	left: 815px;
+	top: 579px;
+	overflow: visible;
+	width: 298px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(199,213,0,1);
+}
+#No_greenhouse_gas_emissions_ar {
+	position: absolute;
+	left: 576px;
+	top: 833px;
+	overflow: hidden;
+	width: 492px;
+	height: 91px;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(108,139,112,1);
+}
+#Image_1 {
+	filter: drop-shadow(0px 3px 6px rgba(177, 177, 177, 0.161));
+	position: absolute;
+	width: 481px;
+	height: 271px;
+	left: 75px;
+	top: 638px;
+	overflow: visible;
+}
+#ic_menu {
+	position: absolute;
+	width: 34px;
+	height: 53px;
+	left: 47px;
+	top: 34px;
+	overflow: visible;
+}
+.rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 34px;
+	height: 53px;
+	left: 0px;
+	top: 0px;
+}
+#path {
+	opacity: 0.54;
+}
+.path {
+	overflow: visible;
+	position: absolute;
+	width: 28px;
+	height: 12px;
+	left: 3px;
+	top: 20.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#Group_337_2x {
+	position: absolute;
+	width: 711px;
+	height: 202px;
+	left: 81px;
+	top: 204px;
+	overflow: visible;
+}
+#A_Clean_Source {
+	position: absolute;
+	left: 576px;
+	top: 788px;
+	overflow: visible;
+	width: 248px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(199,213,0,1);
+}
+#The_sun_provides_more_than_eno {
+	position: absolute;
+	left: 576px;
+	top: 683px;
+	overflow: hidden;
+	width: 492px;
+	height: 91px;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(108,139,112,1);
+}
+#Limitless_Solar_Energy {
+	position: absolute;
+	left: 593px;
+	top: 638px;
+	overflow: visible;
+	width: 360px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(199,213,0,1);
+}
+#After_solar_panels_have_been_i {
+	position: absolute;
+	left: 1250px;
+	top: 683px;
+	overflow: hidden;
+	width: 492px;
+	height: 174px;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(108,139,112,1);
+}
+#No_fuel_to_burn {
+	position: absolute;
+	left: 1250px;
+	top: 638px;
+	overflow: visible;
+	width: 255px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 35px;
+	color: rgba(199,213,0,1);
+}

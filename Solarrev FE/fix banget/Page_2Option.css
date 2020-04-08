@@ -1,0 +1,930 @@
+.mediaViewInfo {
+	--web-view-name: SECOND – 1;
+	--web-view-id: SECOND___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SECOND___1;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#SECOND___1 {
+	position: absolute;
+	width: 1900px;
+	height: 1606px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: SECOND – 1;
+	--web-view-id: SECOND___1;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#ABOUT_US {
+	position: absolute;
+	left: 1584px;
+	top: 48px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(199,213,0,1);
+}
+#FAQ {
+	position: absolute;
+	left: 1764px;
+	top: 48px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(199,213,0,1);
+}
+#Rectangle_183 {
+	position: absolute;
+	width: 1250px;
+	height: 448px;
+	left: 0px;
+	top: 128px;
+	overflow: visible;
+}
+#Rectangle_184 {
+	opacity: 0.25;
+}
+.Rectangle_184 {
+	position: absolute;
+	overflow: visible;
+	width: 651px;
+	height: 448px;
+	left: 1249px;
+	top: 128px;
+}
+#Analysis_Results_ {
+	position: absolute;
+	left: 1391px;
+	top: 155px;
+	overflow: visible;
+	width: 349px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(136,136,126,1);
+}
+#RETURN_TO_HOMEPAGE {
+	position: absolute;
+	left: 78px;
+	top: 43px;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Page 1.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(199,213,0,1);
+}
+#ID0000__watts_of_solar_power_t {
+	position: absolute;
+	left: 1343px;
+	top: 246px;
+	overflow: visible;
+	width: 344px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#IDR_0_000_00__potential_saving {
+	position: absolute;
+	left: 1343px;
+	top: 387px;
+	overflow: visible;
+	width: 515px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#_SCROLL_DOWN_FOR_MORE_INFO {
+	position: absolute;
+	left: 1391px;
+	top: 527px;
+	overflow: visible;
+	width: 297px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: center;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(141,143,112,1);
+}
+#Group_337_2x {
+	position: absolute;
+	width: 324px;
+	height: 92px;
+	left: 766px;
+	top: 13px;
+	overflow: visible;
+}
+#The_statistics_that_will_blow_ {
+	position: absolute;
+	left: 539px;
+	top: 627px;
+	overflow: visible;
+	width: 819px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(199,213,0,1);
+}
+.Rectangle_185 {
+	position: absolute;
+	overflow: visible;
+	width: 758px;
+	height: 407px;
+	left: 127px;
+	top: 737px;
+}
+#Per_Month_Statistics__ {
+	position: absolute;
+	left: 213px;
+	top: 744px;
+	overflow: visible;
+	width: 439px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(136,136,126,1);
+}
+#___ {
+	position: absolute;
+	left: 1343px;
+	top: 246px;
+	overflow: visible;
+	width: 12px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#in {
+	position: absolute;
+	left: 224px;
+	top: 812px;
+	overflow: visible;
+	width: 21px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -12.5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(141,143,112,1);
+}
+#ID0000__watts_of_usable_power_ {
+	position: absolute;
+	left: 224px;
+	top: 867px;
+	overflow: visible;
+	width: 290px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#IDR_0_000_00__potential_saving_y {
+	position: absolute;
+	left: 224px;
+	top: 1001px;
+	overflow: visible;
+	width: 400px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#there_are {
+	position: absolute;
+	left: 392px;
+	top: 813px;
+	overflow: visible;
+	width: 101px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 25px;
+	color: rgba(141,143,112,1);
+}
+.Rectangle_186 {
+	position: absolute;
+	overflow: visible;
+	width: 604px;
+	height: 315px;
+	left: 1092px;
+	top: 829px;
+}
+#ID0000__watts_of_total_solar_p {
+	position: absolute;
+	left: 1240px;
+	top: 851px;
+	overflow: visible;
+	width: 365px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(199,213,0,1);
+}
+#IDR_0_000_00___of_Total_potent {
+	position: absolute;
+	left: 1235px;
+	top: 966px;
+	overflow: visible;
+	width: 368px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(199,213,0,1);
+}
+#Using_solar_energy_for_one__ye {
+	position: absolute;
+	left: 1092px;
+	top: 717px;
+	overflow: visible;
+	width: 421px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(136,136,126,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 449px;
+	left: 989.5px;
+	top: 695.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#What_this_means_for_the_enviro {
+	position: absolute;
+	left: 111px;
+	top: 1176px;
+	overflow: visible;
+	width: 807px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(199,213,0,1);
+}
+#Image_3 {
+	position: absolute;
+	width: 225px;
+	height: 225px;
+	left: 144px;
+	top: 1219px;
+	overflow: visible;
+}
+#ID0_0__ {
+	position: absolute;
+	left: 400px;
+	top: 1248px;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(199,213,0,1);
+}
+#tons {
+	position: absolute;
+	left: 539px;
+	top: 1286px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#of_Carbon_Dioxide_reduced {
+	position: absolute;
+	left: 400px;
+	top: 1363px;
+	overflow: visible;
+	width: 476px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#equivalent__to {
+	position: absolute;
+	left: 917px;
+	top: 1245px;
+	overflow: visible;
+	width: 237px;
+	white-space: nowrap;
+	text-align: center;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(199,213,0,1);
+}
+#Image_4 {
+	position: absolute;
+	width: 395px;
+	height: 208px;
+	left: 1153px;
+	top: 1235px;
+	overflow: visible;
+}
+#ID0_0___bc {
+	position: absolute;
+	left: 1507px;
+	top: 1248px;
+	overflow: visible;
+	width: 133px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 80px;
+	color: rgba(199,213,0,1);
+}
+#cars {
+	position: absolute;
+	left: 1639px;
+	top: 1286px;
+	overflow: visible;
+	width: 77px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#in_a_1_year_span {
+	position: absolute;
+	left: 1503px;
+	top: 1363px;
+	overflow: visible;
+	width: 284px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 40px;
+	color: rgba(199,213,0,1);
+}
+#ui_menu_2 {
+	position: absolute;
+	width: 128px;
+	height: 439.326px;
+	left: 256px;
+	top: 803px;
+	overflow: visible;
+}
+#ui_menu_light {
+	position: absolute;
+	width: 128px;
+	height: 439.326px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.ui_menu_light_bh {
+	filter: drop-shadow(0px 9px 13px rgba(0, 0, 0, 0.259));
+	overflow: visible;
+	position: absolute;
+	width: 167px;
+	height: 478.326px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#fonts {
+	position: absolute;
+	width: 80px;
+	height: 94px;
+	left: 24px;
+	top: 61.5px;
+	overflow: hidden;
+}
+#group {
+	position: absolute;
+	width: 70px;
+	height: 21px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#fonts_bk {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 71px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#group_bl {
+	position: absolute;
+	width: 66px;
+	height: 21px;
+	left: 0px;
+	top: 31px;
+	overflow: visible;
+}
+#fonts_bm {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#group_bn {
+	position: absolute;
+	width: 61px;
+	height: 21px;
+	left: 0px;
+	top: 63px;
+	overflow: visible;
+}
+#fonts_bo {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 62px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#font_selection {
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 100px;
+	top: 19px;
+	overflow: visible;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Page 2.html;
+	cursor: pointer;
+}
+#ic_arrow_drop_up_1 {
+	transform: translate(-207.833px, -197px) matrix(1,0,0,1,207.8334,197) rotate(180deg);
+	transform-origin: center;
+	position: absolute;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+.path {
+	overflow: visible;
+	position: absolute;
+	width: 10px;
+	height: 5px;
+	left: 7px;
+	top: 9px;
+	transform: matrix(1,0,0,1,0,0);
+}
+.rectangle {
+	position: absolute;
+	overflow: visible;
+	width: 24px;
+	height: 24px;
+	left: 0px;
+	top: 0px;
+}
+#fonts_bt {
+	position: absolute;
+	width: 100px;
+	height: 94px;
+	left: 22px;
+	top: 155.5px;
+	overflow: hidden;
+}
+#group_bu {
+	position: absolute;
+	width: 68px;
+	height: 21px;
+	left: 3px;
+	top: -1px;
+	overflow: visible;
+}
+#fonts_bv {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#group_bw {
+	position: absolute;
+	width: 72px;
+	height: 21px;
+	left: 3px;
+	top: 31px;
+	overflow: visible;
+}
+#fonts_bx {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 73px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#group_by {
+	position: absolute;
+	width: 65px;
+	height: 21px;
+	left: 3px;
+	top: 63px;
+	overflow: visible;
+}
+#fonts_bz {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#fonts_b {
+	position: absolute;
+	width: 80px;
+	height: 94px;
+	left: 24px;
+	top: 245.5px;
+	overflow: hidden;
+}
+#group_b {
+	position: absolute;
+	width: 68px;
+	height: 21px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#fonts_ca {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#group_ca {
+	position: absolute;
+	width: 67px;
+	height: 21px;
+	left: 0px;
+	top: 31px;
+	overflow: visible;
+}
+#fonts_cb {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 68px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#group_cb {
+	position: absolute;
+	width: 66px;
+	height: 21px;
+	left: 0px;
+	top: 63px;
+	overflow: visible;
+}
+#fonts_cc {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#fonts_cd {
+	position: absolute;
+	width: 80px;
+	height: 94px;
+	left: 24px;
+	top: 339.5px;
+	overflow: hidden;
+}
+#group_cc {
+	position: absolute;
+	width: 66px;
+	height: 21px;
+	left: 0px;
+	top: -1px;
+	overflow: visible;
+}
+#fonts_ce {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 67px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#group_cd {
+	position: absolute;
+	width: 68px;
+	height: 21px;
+	left: 0px;
+	top: 31px;
+	overflow: visible;
+}
+#fonts_cf {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 69px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#group_ce {
+	position: absolute;
+	width: 65px;
+	height: 21px;
+	left: 0px;
+	top: 63px;
+	overflow: visible;
+}
+#fonts_cg {
+	opacity: 0.87;
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	width: 66px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 16px;
+	color: rgba(0,0,0,1);
+}
+#ui_menu_1 {
+	position: absolute;
+	width: 128px;
+	height: 42.961px;
+	left: 256px;
+	top: 811.718px;
+	overflow: visible;
+}
+#ui_divider_dark_2 {
+	opacity: 0.12;
+}
+.ui_divider_dark_2 {
+	overflow: visible;
+	position: absolute;
+	width: 0.569px;
+	height: 28.935px;
+	left: 124.387px;
+	top: 5.243px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#font {
+	opacity: 0.87;
+	position: absolute;
+	left: 36px;
+	top: 14.282px;
+	overflow: visible;
+	width: 53px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Roboto;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 9px;
+	color: rgba(0,0,0,1);
+}
+#ui_divider_dark_1 {
+	opacity: 0.12;
+}
+.ui_divider_dark_1 {
+	overflow: visible;
+	position: absolute;
+	width: 0.569px;
+	height: 28.935px;
+	left: 5.032px;
+	top: 5.243px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#menu {
+	position: absolute;
+	width: 128px;
+	height: 42.961px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#bottom_line {
+	opacity: 0.16;
+}
+.bottom_line {
+	overflow: visible;
+	position: absolute;
+	width: 128px;
+	height: 1px;
+	left: 0px;
+	top: 0px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#top_line {
+	opacity: 0.16;
+}
+.top_line {
+	overflow: visible;
+	position: absolute;
+	width: 128px;
+	height: 1px;
+	left: 0px;
+	top: 42.961px;
+	transform: matrix(1,0,0,1,0,0);
+}

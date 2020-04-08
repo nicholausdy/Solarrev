@@ -1,0 +1,8 @@
+pandas==1.0.3
+matplotlib==3.2.1
+requests==2.18.4
+Flask_Cors==3.0.8
+opencv_python==4.2.0.34
+numpy==1.18.2
+Flask==1.1.2
+Pillow==7.1.1
