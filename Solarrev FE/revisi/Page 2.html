@@ -95,7 +95,7 @@
 		const latitude = localStorage.getItem('lat')
 		const longitude = localStorage.getItem('lon')
 		document.getElementById("Rectangle_183").src = "https://maps.googleapis.com/maps/api/staticmap?center="+latitude+","+longitude+"&zoom=20&size=1250x448&maptype=hybrid&key=AIzaSyActbEbfItE7AM9xjZSlOggz7YvwYP_6I8"
-		const resp = await fetch('http://192.168.43.85:7500/api/v1/solarpanel?latitude='+latitude+'&'+'longitude='+longitude, {
+		const resp = await fetch('http://34.237.22.22:7500/api/v1/solarpanel?latitude='+latitude+'&'+'longitude='+longitude, {
 			method: 'GET',
 			mode: 'cors'
 		});
