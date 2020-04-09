@@ -174,6 +174,7 @@ def getAllInfo(lat,lon):
     except:
         res = {"status":500, "reason":"Internal server error"}
     finally:
+        os.chdir('/home/ec2-user/Solarrev')
         return json.dumps(res)
 
 

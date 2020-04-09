@@ -1,0 +1,322 @@
+.mediaViewInfo {
+	--web-view-name: SECOND;
+	--web-view-id: SECOND;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: SECOND;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#SECOND {
+	position: absolute;
+	width: 1900px;
+	height: 1500px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: SECOND;
+	--web-view-id: SECOND;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes fadein {
+
+	0% {
+		opacity: 0;
+	}
+	100% {
+		opacity: 1;
+	}
+
+}
+#ABOUT_US {
+	position: absolute;
+	left: 1583px;
+	top: 48px;
+	overflow: visible;
+	width: 103px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(199,213,0,1);
+}
+#FAQ {
+	position: absolute;
+	left: 1764px;
+	top: 48px;
+	overflow: visible;
+	width: 42px;
+	white-space: nowrap;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(199,213,0,1);
+}
+#Rectangle_183 {
+	position: absolute;
+	width: 1250px;
+	height: 448px;
+	left: 0px;
+	top: 128px;
+	overflow: visible;
+}
+#Rectangle_184 {
+	opacity: 0.25;
+}
+.Rectangle_184 {
+	position: absolute;
+	overflow: visible;
+	width: 651px;
+	height: 448px;
+	left: 1249px;
+	top: 128px;
+}
+#Analysis_Results_ {
+	position: absolute;
+	left: 1391px;
+	top: 155px;
+	overflow: visible;
+	width: 349px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(136,136,126,1);
+}
+#RETURN_TO_HOMEPAGE {
+	position: absolute;
+	left: 78px;
+	top: 43px;
+	overflow: visible;
+	width: 216px;
+	white-space: nowrap;
+	--web-animation: fadein 0.3s ease-out;
+	--web-action-type: page;
+	--web-action-target: Page 1.html;
+	cursor: pointer;
+	line-height: 50px;
+	margin-top: -15px;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 20px;
+	color: rgba(199,213,0,1);
+}
+#Group_337_2x {
+	position: absolute;
+	width: 324px;
+	height: 92px;
+	left: 766px;
+	top: 13px;
+	overflow: visible;
+}
+#The_statistics_that_will_blow_ {
+	position: absolute;
+	left: 539px;
+	top: 612px;
+	overflow: visible;
+	width: 819px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 45px;
+	color: rgba(199,213,0,1);
+}
+.Rectangle_185 {
+	position: absolute;
+	overflow: visible;
+	width: 824px;
+	height: 484px;
+	left: 61px;
+	top: 722px;
+}
+#ID0__kWh_in_1_month_and {
+	position: absolute;
+	left: 113px;
+	top: 826px;
+	overflow: visible;
+	width: 328px;
+	white-space: nowrap;
+	line-height: 74px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 59px;
+	color: rgba(199,213,0,1);
+}
+.Rectangle_186 {
+	position: absolute;
+	overflow: visible;
+	width: 808px;
+	height: 440px;
+	left: 1033px;
+	top: 766px;
+}
+#Need_more_power_ {
+	position: absolute;
+	left: 1033px;
+	top: 688px;
+	overflow: visible;
+	width: 358px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 40px;
+	color: rgba(136,136,126,1);
+}
+.Line_1 {
+	overflow: visible;
+	position: absolute;
+	width: 1px;
+	height: 449px;
+	left: 950.5px;
+	top: 680.5px;
+	transform: matrix(1,0,0,1,0,0);
+}
+#ID0000__kWh_generated_in_a_day {
+	position: absolute;
+	left: 1342px;
+	top: 245px;
+	overflow: visible;
+	width: 281px;
+	white-space: nowrap;
+	line-height: 79px;
+	margin-top: -17px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(199,213,0,1);
+}
+#By_using_a_1_panel_system__you {
+	position: absolute;
+	left: 113px;
+	top: 738px;
+	overflow: visible;
+	width: 622px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 33px;
+	color: rgba(136,136,126,1);
+}
+#ID0__kWh_in_a_year_ {
+	position: absolute;
+	left: 113px;
+	top: 1002px;
+	overflow: visible;
+	width: 236px;
+	white-space: nowrap;
+	line-height: 66px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 59px;
+	color: rgba(199,213,0,1);
+}
+#Using_a_4_Panel_System_will_gi {
+	position: absolute;
+	left: 1057px;
+	top: 791px;
+	overflow: visible;
+	width: 757px;
+	white-space: nowrap;
+	text-align: left;
+	font-family: Microsoft New Tai Lue;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(136,136,126,1);
+}
+#ID0__kWh_in_1_month_and_z {
+	position: absolute;
+	left: 1068px;
+	top: 870px;
+	overflow: visible;
+	width: 328px;
+	white-space: nowrap;
+	line-height: 74px;
+	margin-top: -7.5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 59px;
+	color: rgba(199,213,0,1);
+}
+#ID0__kWh_in_a_year__ {
+	position: absolute;
+	left: 1068px;
+	top: 1022px;
+	overflow: visible;
+	width: 236px;
+	white-space: nowrap;
+	line-height: 66px;
+	margin-top: -3.5px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 59px;
+	color: rgba(199,213,0,1);
+}
+.Rectangle_189 {
+	position: absolute;
+	overflow: visible;
+	width: 338px;
+	height: 324px;
+	left: 498px;
+	top: 826px;
+}
+.Rectangle_190 {
+	position: absolute;
+	overflow: visible;
+	width: 337px;
+	height: 287px;
+	left: 1459px;
+	top: 878px;
+}
+#ID0000__Maximum_kWh_in_a_day__ {
+	position: absolute;
+	left: 1342px;
+	top: 401px;
+	overflow: visible;
+	width: 471px;
+	white-space: nowrap;
+	line-height: 79px;
+	margin-top: -17px;
+	text-align: left;
+	font-family: Microsoft Sans Serif;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 45px;
+	color: rgba(199,213,0,1);
+}
